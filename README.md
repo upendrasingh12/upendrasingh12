@@ -6,8 +6,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-19405B?style=flat-square&logo=python" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-01CBB2?style=flat-square&logo=dart" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46A2F1?style=flat-square&logo=javascript" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
