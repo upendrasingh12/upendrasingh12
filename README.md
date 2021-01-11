@@ -11,7 +11,7 @@
   <img alt="Saas" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F7F7F7?style=flat-square&logo=mysql" />
   <img alt="Firebase" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-F7F7F7?style=flat-square&logo=flutter&logoColor=01C1F2" />
   <img alt="Django" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Angular-F7F7F7?style=flat-square&logo=flutter&logoColor=01C1F2" />
   <img alt="WordPress" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
