@@ -8,12 +8,12 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-01CBB2?style=flat-square&logo=dart" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-46A2F1?style=flat-square&logo=javascript" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" />
-  <img alt="Saas" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Saas" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F7F7F7?style=flat-square&logo=mysql" />
   <img alt="Firebase" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Angular-F7F7F7?style=flat-square&logo=flutter&logoColor=01C1F2" />
   <img alt="WordPress" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Magento" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
