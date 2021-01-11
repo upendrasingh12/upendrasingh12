@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Upendra Singh a recent IT graduate having good knowledge of Python, mobile app development, web frameworks and algorithmic trading. Over the past few years, I've learned several new technologies and have implemented them in my projects</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
   <img alt="Dart" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
