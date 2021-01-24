@@ -15,8 +15,8 @@
   <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=01C1F2" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WORDPRESS-217196?style=flat-square&logo=wordpress" />
-  <img alt="Magento" src="https://img.shields.io/badge/-Magento-43853d?style=flat-square&logo=Magento&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-BootStrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Magento" src="https://img.shields.io/badge/-magento-260F05?style=flat-square&logo=magento" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-4C2B5A?style=flat-square&logo=bootstrap" />
 </p>
 <h3>Open source projects</h3>
 <table>
@@ -34,7 +34,7 @@
       <td><a href="https://github.com/upendrasingh12/Algorithmic-trading"><b>Algorithmic trading</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/upendrasingh12?affiliations=OWNER&style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/upendrasingh12/Algorithmic-trading?label=Fork&style=flat-square"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/upendrasingh12/Algorithmic-trading?style=flat-square"/><td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/upendrasingh12/Algorithmic-trading?style=flat-square"/></td>
     </tr>
 	  <tr>
