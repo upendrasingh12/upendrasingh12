@@ -34,7 +34,7 @@
       <td><a href="https://github.com/upendrasingh12/Algorithmic-trading"><b>Algorithmic trading</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/upendrasingh12?affiliations=OWNER&style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/upendrasingh12/Algorithmic-trading?label=Fork&style=flat-square"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/upendrasingh12/Algorithmic-trading?style=flat-square"/><td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/upendrasingh12/Algorithmic-trading?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/upendrasingh12/Algorithmic-trading?style=flat-square"/></td>
     </tr>
 	  <tr>
