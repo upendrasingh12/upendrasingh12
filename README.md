@@ -14,7 +14,7 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-F7F7F7?style=flat-square&logo=flutter&logoColor=01C1F2" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=01C1F2" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-43853d?style=flat-square&logo=wordpres&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WORDPRESS-217196?style=flat-square&logo=wordpress" />
   <img alt="Magento" src="https://img.shields.io/badge/-Magento-43853d?style=flat-square&logo=Magento&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-BootStrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
